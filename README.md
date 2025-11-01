@@ -3,7 +3,7 @@
 
 ```Bash
 conda create -n gs python==3.10
-git clone https://github.com/graphdeco-inria/gaussian-splatting.git
+git clone https://github.com/graphdeco-inria/gaussian-splatting.git --resume
 
 ```
 
